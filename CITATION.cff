@@ -14,3 +14,17 @@ preferred-citation:
   month: 12
   title: "Resources building for sentiment analysis of content disseminated by Tunisian medias in social networks."
   year: 2023
+preferred-citation:
+  title: "A deep sentiment analysis of {T}unisian dialect comments on multi-domain posts in different social media platforms"
+  type: conference-paper
+  authors:
+  - family-names: "Fsih"
+    given-names: "Emna"
+  - family-names: "Boujelbane"
+    given-names: "Rahma"
+  - family-names: "Hadrich Belguith"
+    given-names: "Lamia"
+  collection-title: "Proceedings of the 5th International Conference on Natural Language and Speech Processing (ICNLSP 2022)"
+  start: 226 # First page number
+  end: 233 # Last page number
+  year: 2022
